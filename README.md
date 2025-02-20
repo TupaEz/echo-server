@@ -12,7 +12,7 @@ A simple TCP echo server built with Node.js It listens for incoming messages and
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/echo-server.git
+   git clone https://github.com/TupaEz/echo-server.git
    ```
 2. Navigate to the project directory:
    cd echo-server
